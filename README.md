@@ -5,7 +5,7 @@
  First Year Student
 
 ## About Me
-I am a first-year CSE student eager to learn programming,
+I am a first-year Computer Science Engineering student eager to learn programming,
 data structures, algorithms, and software development.
 I am building this profile as part of my digital literacy journey.
 
